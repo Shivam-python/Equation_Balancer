@@ -1,6 +1,8 @@
 # Equation_Balancer
 We’ve all taken that pesky high school chem class where we were asked to balance chemical equations . Now we can easily balance any complex chemical equation accurately within just a few seconds. This project presents a screen & allows to add products & reactants. Upon submission of the form, it balances the equation & renders the result back to the page.
 
+# Live demo
+- Find the live demo hosted on vercel from here : https://equationbalancer.vercel.app/
 # Add the equation : 
 ![demo](demo-1.png)
 
@@ -18,10 +20,6 @@ Set Up a Virtual Environment https://docs.python.org/3/library/venv.html
 
 - Install the requirements : 
     - pip install -r requirements.txt
-
-- Migrate Project Model to the Database. Run following commands in order :  
-    - python manage.py makemigrations
-    - python manage.py migrate
 
 - Run the Project 
     - python manage.py runserver
