@@ -4,7 +4,7 @@ We’ve all taken that pesky high school chem class where we were asked to balan
 # Add the equation : 
 ![demo](demo-1.png)
 
-# Submit the form & get balanced equeation
+# Submit the form & get balanced equation
 ![demo2](demo-2.png)
 
 # Pre-Requirement
@@ -26,5 +26,12 @@ Set Up a Virtual Environment https://docs.python.org/3/library/venv.html
 - Run the Project 
     - python manage.py runserver
 
+
+- Test Equations : 
+    - CO2 + H2O → C6H12O6 + O2
+    - SiCl4 + H2O → H4SiO4 + HCl
+    - Al + HCl → AlCl3 + H2
+    - Na2CO3 + HCl → NaCl + H2O + CO2
+    - C7H6O2 + O2 → CO2 + H2O
 
 - To know more about approach followed , please refer to this video demonstrating equation balancing using matrices. Link : https://www.youtube.com/watch?v=yCxDAj87W8M
