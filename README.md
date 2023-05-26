@@ -9,8 +9,8 @@ We’ve all taken that pesky high school chem class where we were asked to balan
 
 # Pre-Requirement
 
-Python
-pip
+- Python
+- pip
 
 # How to run the Application
 
